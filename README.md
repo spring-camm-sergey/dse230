@@ -17,9 +17,11 @@ hadoop fs -copyFromLocal <work_dir>/BRFSS_feature_codes_map.csv /;
 ### 2. Description of Files:  
 
 #### 2.1. Datasets:  
-BRFSS_2020_main_dataset.csv: this is the main dataset, downloaded from CDC website as SAS file (https://www.cdc.gov/brfss/annual_data/2020/files/LLCP2020XPT.zip) and converted into .csv in SAS Studio. 
-Behavioral_Risk_Factor_Surveillance_System__BRFSS__Historical_Questions.csv: 
-BRFSS_feature_codes_map.csv. ...  
+BRFSS_2020_main_dataset.csv: this is the main dataset, downloaded from CDC website as SAS file (https://www.cdc.gov/brfss/annual_data/2020/files/LLCP2020XPT.zip) and converted into .csv in SAS Studio.    
+
+Behavioral_Risk_Factor_Surveillance_System__BRFSS__Historical_Questions.csv:  
+
+BRFSS_feature_codes_map.csv. ...   
 
 #### 2.2. Code: 
 team3_project_notebook.ipynb ...   
