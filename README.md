@@ -1,4 +1,4 @@
-#DSE-230 Final Project Setup Guide
+# DSE-230 Final Project Setup Guide
 
 ### 1. For running the code on local machine:
 
@@ -28,4 +28,6 @@ team3_project_notebook.ipynb ...
 team3_project_proposal_presentation.pdf ...  
 team3_project_final_presentation.pdf ...  
 
+
+Team 3: Sergey Gurvich, Camm Perera, Chunxia Tong
 
