@@ -1,6 +1,6 @@
 #DSE-230 Final Project Setup Guide
 
-### 1. For running the code on locl machine:
+### 1. For running the code on local machine:
 
 #### 1.1 Download and unzip datasets.zip into working directory (<work_dir>).
 
