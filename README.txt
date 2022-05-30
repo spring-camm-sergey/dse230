@@ -53,7 +53,7 @@ Code:
 
 
 Presentations:
-- project_proposal_presentation.pdf					project proposal presentation PDF
+- project_proposal_presentation.pdf						project proposal presentation PDF
 - project_final_presentation.pdf						final project presentation PDF
 
 
