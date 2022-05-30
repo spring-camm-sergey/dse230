@@ -18,7 +18,7 @@ hadoop fs -copyFromLocal <work_dir>/BRFSS_feature_codes_map.csv /;
 - README.md: this file
 - README.txt: txt version of this guidance
 
-#### 2.1. Datasets:  
+#### 2.1. datasets.zip contains:  
 - BRFSS_2020_main_dataset.csv: this is the main dataset, downloaded from CDC website as SAS file (https://www.cdc.gov/brfss/annual_data/2020/files/LLCP2020XPT.zip) and converted into .csv in SAS Studio.    
 
 - Behavioral_Risk_Factor_Surveillance_System__BRFSS__Historical_Questions.csv:  this file contains features codes, corresponding questions and possible answes.
