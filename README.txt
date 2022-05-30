@@ -35,7 +35,7 @@ For original Dataset Files, Scripts and Description, please visit following webs
 3. Converted Datasets, Code and Presentations GIT Repository:
 -------------------------------------------------------------
 
-To download the code, datasets and project presentations repository please visit GitHub location:
+To download the code, datasets and project presentations please visit GitHub location:
 - https://github.com/spring-camm-sergey/dse230
 
 Files Description:
