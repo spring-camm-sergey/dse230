@@ -31,8 +31,8 @@ hadoop fs -copyFromLocal <work_dir>/BRFSS_feature_codes_map.csv /;
 - dse230_project_notebook.pdf: exported PDF of the notebook
 
 #### 2.3. Presentations:  
-- team3_project_proposal_presentation.pdf: project proposal presentation PDF
-- team3_project_final_presentation.pdf: final project presentation PDF
+- project_proposal_presentation.pdf: project proposal presentation PDF
+- project_final_presentation.pdf: final project presentation PDF
 
 
 Team: Sergey Gurvich, Camm Perera, Chunxia Tong
