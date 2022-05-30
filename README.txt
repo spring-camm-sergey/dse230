@@ -65,6 +65,7 @@ README files:
 
 4. How to Install and Run the Project:
 --------------------------------------
+- All files are located in prject GIT repository: https://github.com/spring-camm-sergey/dse230
 
 a. Download and unzip datasets.zip into your working directory (<work_dir>).
 
