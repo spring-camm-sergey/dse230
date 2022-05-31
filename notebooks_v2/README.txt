@@ -83,7 +83,11 @@ Jupiter Notebook (Lab): open the .ipynb files and click Run > Run All Cells for 
 - project_notebook_2_Data_Preparation.ipynb
 - project_notebook_3_Modeling_Evaluation.ipynb	
 
-
+e. Clean-up HDFS:
+	hadoop fs -rm /BRFSS_2020_main_dataset.csv;
+	hadoop fs -rm /BRFSS_feature_codes_map.csv;
+	hadoop fs -rm /Behavioral_Risk_Factor_Surveillance_System__BRFSS__Historical_Questions.csv;
+	hadoop fs -rm -r /df_features_transformation.csv;
 
 
 5. Credits:
