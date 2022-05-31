@@ -47,13 +47,13 @@ Datasets (datasets.zip) contains:
 
 
 Code:
-- project_notebook_1_Description_EDA.ipynb						Notebook 1: Project description, Setup, EDA
+- project_notebook_1_Description_EDA.ipynb					Notebook 1: Project description, Setup, EDA
 - project_notebook_2_Data_Preparation.ipynb					Notebook 2: Data Preparation	
 - project_notebook_3_Modeling_Evaluation.ipynb					Notebook 3: Modeling and Evaluation
 
 Presentations:
 - project_proposal_presentation.pdf						project proposal presentation PDF
-- project_final_presentation.pdf							final project presentation PDF
+- project_final_presentation.pdf						final project presentation PDF
 
 
 README files:
