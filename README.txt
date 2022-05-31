@@ -48,8 +48,6 @@ Datasets (datasets.zip) contains:
 
 Code:
 - dse230_project_notebook.ipynb							the notebook with the script and (almost) all cells executed
-- dse230_project_notebook.py							the Python script generated from the notebook
-- dse230_project_notebook.pdf							exported PDF of the notebook
 
 
 Presentations:
