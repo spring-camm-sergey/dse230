@@ -76,6 +76,11 @@ d. Run the code:
 - Jupiter Notebook (Lab): open the dse230_project_notebook.ipynb file and click Run > Run All Cells
 - Python console / IDE:  run dse230_project_notebook.py script
 
+e. Clean-up HDFS:
+
+	hadoop fs -rm /BRFSS_2020_main_dataset.csv;
+	hadoop fs -rm /BRFSS_feature_codes_map.csv;
+	hadoop fs -rm /Behavioral_Risk_Factor_Surveillance_System__BRFSS__Historical_Questions.csv;
 
 
 5. Credits:
