@@ -47,12 +47,18 @@ Datasets (datasets.zip) contains:
 
 
 Code:
-- dse230_project_notebook.ipynb							the notebook with the script and (almost) all cells executed
-
+- project_notebook_1_Description_EDA.ipynb						Notebook 1: Project description, Setup, EDA
+- project_notebook_2_Data_Preparation.ipynb					Notebook 2: Data Preparation	
+- project_notebook_3_Modeling_Evaluation.ipynb					Notebook 3: Modeling and Evaluation
 
 Presentations:
 - project_proposal_presentation.pdf						project proposal presentation PDF
-- project_final_presentation.pdf						final project presentation PDF
+- project_final_presentation.pdf							final project presentation PDF
+
+
+README files:
+- README.txt									this file
+- README.md									short GIT version of this guidance
 
 
 
@@ -68,17 +74,16 @@ b. Place all CSV files from the previous step into HDFS. Example:
 	hadoop fs -copyFromLocal <work_dir>/BRFSS_feature_codes_map.csv /; 
 
 
-c. Download the code file (.py or .ipynb)
+c. Download the code files (.ipynb)
 
 d. Run the code:
-- Jupiter Notebook (Lab): open the dse230_project_notebook.ipynb file and click Run > Run All Cells
-- Python console / IDE:  run dse230_project_notebook.py script
 
-e. Clean-up HDFS:
+Jupiter Notebook (Lab): open the .ipynb files and click Run > Run All Cells for the following files (keeping the same order):
+- project_notebook_1_Description_EDA.ipynb
+- project_notebook_2_Data_Preparation.ipynb
+- project_notebook_3_Modeling_Evaluation.ipynb	
 
-	hadoop fs -rm /BRFSS_2020_main_dataset.csv;
-	hadoop fs -rm /BRFSS_feature_codes_map.csv;
-	hadoop fs -rm /Behavioral_Risk_Factor_Surveillance_System__BRFSS__Historical_Questions.csv;
+
 
 
 5. Credits:
