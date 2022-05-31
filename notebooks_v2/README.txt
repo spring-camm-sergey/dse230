@@ -51,14 +51,11 @@ Code:
 - project_notebook_2_Data_Preparation.ipynb					Notebook 2: Data Preparation	
 - project_notebook_3_Modeling_Evaluation.ipynb					Notebook 3: Modeling and Evaluation
 
+- dse230_project_notebook.ipynb							Contains all the code and cells from notebooks 1,2,3 in one large notebook 
+
 Presentations:
 - project_proposal_presentation.pdf						project proposal presentation PDF
 - project_final_presentation.pdf						final project presentation PDF
-
-
-README files:
-- README.txt									this file
-- README.md									short GIT version of this guidance
 
 
 
