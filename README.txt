@@ -57,11 +57,6 @@ Presentations:
 - project_final_presentation.pdf						final project presentation PDF
 
 
-README files:
-- README.txt									this file
-- README.md									short GIT version of this guidance
-
-
 
 4. How to Install and Run the Project:
 --------------------------------------
